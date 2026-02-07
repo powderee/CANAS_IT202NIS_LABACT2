@@ -95,7 +95,7 @@ namespace MATHCSHARPERS
             Max = Math.Max(Num_1, Num_2);
             Max2 = Math.Max(Max, Num_3);
             Max3 = Math.Max(Max2, Num_4);
-            RealMax = Math.Max(Max3, Num_1);
+            RealMax = Math.Max(Max3, Num_5);
 
             Min = Math.Min(Num_1 , Num_2);
             Min2 = Math.Min(Min, Num_3);
